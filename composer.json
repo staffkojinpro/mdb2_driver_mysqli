@@ -1,5 +1,5 @@
 {
-	"name": "bondas83/MDB2_Driver_mysqli",
+	"name": "bondas83/mdb2_driver_mysqli",
 	"description": "This is the Mysqli MDB2 driver.",
 	"type": "library",
 	"keywords": [ "database", "mdb2", "pear", "mysqli" ],
