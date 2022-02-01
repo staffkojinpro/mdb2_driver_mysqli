@@ -1,9 +1,9 @@
 {
-	"name": "bondas83/mdb2_driver_mysqli",
+	"name": "staffkojinpro/mdb2_driver_mysqli",
 	"description": "This is the Mysqli MDB2 driver.",
 	"type": "library",
 	"keywords": [ "database", "mdb2", "pear", "mysqli" ],
-	"homepage": "https://github.com/bondas83/MDB2_Driver_mysqli",
+	"homepage": "https://github.com/staffkojinpro/mdb2_driver_mysqli",
 	"license": "BSD-2-Clause",
 	"authors": [
 		{
